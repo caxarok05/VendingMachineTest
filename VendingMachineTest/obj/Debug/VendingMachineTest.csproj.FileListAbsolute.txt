@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\VendingMachineTest\VendingMachineTest\bin\Debug\VendingMachineTest.exe.config
+C:\Users\User\source\repos\VendingMachineTest\VendingMachineTest\bin\Debug\VendingMachineTest.exe
+C:\Users\User\source\repos\VendingMachineTest\VendingMachineTest\bin\Debug\VendingMachineTest.pdb
+C:\Users\User\source\repos\VendingMachineTest\VendingMachineTest\obj\Debug\VendingMachineTest.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\VendingMachineTest\VendingMachineTest\obj\Debug\VendingMachineTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VendingMachineTest\VendingMachineTest\obj\Debug\VendingMachineTest.exe
+C:\Users\User\source\repos\VendingMachineTest\VendingMachineTest\obj\Debug\VendingMachineTest.pdb
