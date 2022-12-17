@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Keys xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Key Number="1">
+			<name>Cola</name>
+			<price>3</price>
+	</Key>
+	<Key Number="2">
+			<name>Sprite</name>
+			<price>2,80</price>
+	</Key>
+	<Key Number="3">
+			<name>Fanta</name>
+			<price>3,10</price>
+	</Key>
+	<Key Number="4">
+			<name>7up</name>
+			<price>2,90</price>
+	</Key>
+	<Key Number="5">
+			<name>Mirinda</name>
+			<price>3,05</price>
+	</Key>
+	<Key Number="6">
+			<name>Pepsi</name>
+			<price>4</price>
+	</Key>
+	<Key Number="7">
+			<name>Квас</name>
+			<price>2</price>
+	</Key>
+	<Key Number="8">
+			<name>Сок Добрый</name>
+			<price>5,1</price>
+	</Key>
+	<Key Number="9">
+			<name>Сок Злой</name>
+			<price>6,4</price>
+	</Key>
+	<Key Number="10">
+			<name>Water</name>
+			<price>0,8</price>
+	</Key>
+</Keys>

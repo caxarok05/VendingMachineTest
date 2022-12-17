@@ -5,15 +5,17 @@ namespace VendingMachineTest
 {
     class PurchaseMethod
     {
-        public static void BuyItem(XmlDocument productList, float moneyValue, int number)
+        public static void BuyItem(XmlDocument productList, ref float moneyValue, int number)
         {
             XmlNode root = productList.DocumentElement;
 
-            if (moneyValue >= int.Parse(root.SelectNodes("Key").Item(number).SelectSingleNode("price").InnerText))
+            if (moneyValue >= float.Parse(root.SelectNodes("Key").Item(number).SelectSingleNode("price").InnerText))
             {
-                root.RemoveChild(root.SelectNodes("Key").Item(number));          
+                moneyValue -= float.Parse(root.SelectNodes("Key").Item(number).SelectSingleNode("price").InnerText);
+                root.RemoveChild(root.SelectNodes("Key").Item(number));              
             }
-
+            else
+                Console.WriteLine("You don't have enough money for that item");
         }
 
     }
