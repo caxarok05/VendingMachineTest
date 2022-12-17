@@ -1,2 +1,2 @@
 # VendingMachineTest
-![](https://ltdfoto.ru/image/XL8U0p)
+![alt text](https://ltdfoto.ru/image/XL8U0p)
